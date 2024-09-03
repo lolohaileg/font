@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "supplies";
+  src: url('supplies.eot?t=1725347702470');
+  src: url('supplies.eot?t=1725347702470#iefix') format('embedded-opentype'),
+       url("supplies.woff2?t=1725347702470") format("woff2"),
+       url("supplies.woff?t=1725347702470") format("woff"),
+       url('supplies.ttf?t=1725347702470') format('truetype'),
+       url('supplies.svg?t=1725347702470#supplies') format('svg');
+}
+
+[class^="supplies-"], [class*=" supplies-"] {
+  font-family: 'supplies' !important;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.supplies-11:before {
+  content: "\e900";
+}

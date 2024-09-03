@@ -1,0 +1,11 @@
+{
+  "fontName": "supplies",
+  "icons": {
+    "11": {
+      "encodedCode": "\\e900",
+      "prefix": "supplies",
+      "className": "supplies-11",
+      "unicode": ""
+    }
+  }
+}
